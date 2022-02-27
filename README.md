@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 --><!DOCTYPE html>
 <html>
 <body>
-    <h1>Sou a Letícia</h1>
-    <p>Apelidos: Leh, Leleka, Leleh, Pimentinha, Pimentão, Pih</p>
-    <p>Idade: 15 anos </p>
+    <h1>Sou a Letícia Pimenta</h1>
+    <p>Idade: 16 anos </p>
     <p>Nascimeto: 20/06/2005</p>
     <p>Cidade: Nascida em Marília, onde moro atualmente</p>
     <p>Escola: ETEC Antonio Devisate</p>
-    <p>Email: lelekarpimenta@gmail.com</p>
-    <p>Animal favorito: Raposas</p>
-    <p>Hobbie: Gosto de desenhar e testar recitas novas</p>
+    <p>Email: leticiarpimenta21@gmail.com</p>
+    <p>Hobbies: Ler, desenhar e criar histórias</p>
     <p>Status de relacinamento: Solteira</p>
-    <p>Estilo de filme favorito: Romance, drama, comedia e suspense</p>
-    <p>Música favorita: Happier - Marshmello</p>
 </body>
 </html>
