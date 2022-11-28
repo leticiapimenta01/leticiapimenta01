@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 <html>
 <body>
     <h1>Sou a Letícia Pimenta</h1>
-    <p>Idade: 16 anos </p>
+    <p>Idade: 17 anos </p>
     <p>Nascimeto: 20/06/2005</p>
-    <p>Cidade: Nascida em Marília, onde moro atualmente</p>
+    <p>Cidade: Marília - SP</p>
     <p>Escola: ETEC Antonio Devisate</p>
     <p>Email: leticiarpimenta21@gmail.com</p>
-    <p>Hobbies: Ler, desenhar e criar histórias</p>
-    <p>Status de relacinamento: Solteira</p>
+    <p>Hobbies: Ler e montar cubo mágico</p>
 </body>
 </html>
