@@ -1,27 +1,15 @@
-### Hello, seja bem-vindo 👋
 
-<!--
-**leticiapimenta01/leticiapimenta01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><!DOCTYPE html>
-<html>
-<body>
-    <h1>Sou a Letícia Pimenta</h1>
+<h2 align="center">Hello! I'm Letícia Pimenta 😁<h2>
+<div align="center">
+  <a href="https://github.com/leticiapimenta01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiapimenta01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapimenta01&layout=compact&langs_count=7&theme=radical"/>
+  <img src="/icon-html">
+</div>
+<div>
     <p>Idade: 17 anos </p>
     <p>Nascimeto: 20/06/2005</p>
     <p>Cidade: Marília - SP</p>
     <p>Escola: ETEC Antonio Devisate</p>
     <p>Email: leticiarpimenta21@gmail.com</p>
-    <p>Hobbies: Ler e montar cubo mágico</p>
-</body>
-</html>
+</div>
