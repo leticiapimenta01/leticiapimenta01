@@ -1,6 +1,6 @@
   <h2 align="center">Hello! I'm Letícia Pimenta</h2>
   <div>
-    <img height="130em" align="right" src="https://media.tenor.com/6ndm0Avg93MAAAAC/spy-x-family-anya.gif"/>
+    <img height="110em" align="right" src="https://media.tenor.com/6ndm0Avg93MAAAAC/spy-x-family-anya.gif"/>
     <p align="center">Tenho 17 anos e sou natural de Marília-SP onde moro atualmente. Sou formada no curso de Desenvolvimento de Sistemas. Amo programar sites e principalmente os estilizar com CSS. Em minhas horas livres gosto de ler e crochetar</p>
     <p align="center">Aqui estão alguns dos meus trabalhinhos prediletos, espero que gostem 😊</p>
   
@@ -40,5 +40,5 @@
   
   <br><br>
   
-  <p align="center">Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p align="center">Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> , <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://tenor.com">Tenor</a></p>
 
