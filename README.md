@@ -1,8 +1,11 @@
   <h2 align="center">Hello! I'm Letícia Pimenta</h2>
   <div>
+    <img height="150em" width="270px" align="right" src="https://media.tenor.com/6ndm0Avg93MAAAAC/spy-x-family-anya.gif"/>
     <p align="center">Tenho 17 anos e sou natural de Marília-SP onde moro atualmente. Sou formada no curso de Desenvolvimento de Sistemas. Amo programar sites e principalmente os estilizar com CSS. Em minhas horas livres gosto de ler e crochetar</p>
     <p align="center">Aqui estão alguns dos meus trabalhinhos prediletos, espero que gostem 😊</p>
+  
   </div>
+  
   
   ##
   
